@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 #data too large
-all_rivens_data.json
+#all_rivens_data.json
