@@ -1,4 +1,5 @@
 Project Structure Overview
+
 This repository contains the code and resources for a data analysis project. Below is a breakdown of the key components and their locations within the project:
 
 API Interaction Code: The logic for interacting with the API is encapsulated in the datawfm.py file. This script is responsible for fetching data from the API and preparing it for analysis.
