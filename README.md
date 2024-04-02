@@ -1,4 +1,4 @@
-Project Structure Overview
+**Project Structure Overview**
 
 This repository contains the code and resources for a data analysis project. Below is a breakdown of the key components and their locations within the project:
 
