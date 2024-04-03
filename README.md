@@ -14,7 +14,9 @@ Failed Graph Attempts: It's worth noting that the project also includes several 
 
 
 **Story of the Data**
+
 [reddit post](https://en.reddit.com/r/Warframe/comments/1bu1ner/riven_guide_insights_from_warframemarket_data/)
+
 I wanted to see if I could uncover some insights that would benefit both newbies and seasoned players, especially when it comes to rolling Rivens. I've put together some graphs that I think you'll find pretty interesting.
 
 [Riven Results](https://i.imgur.com/pyggvAj.png)
